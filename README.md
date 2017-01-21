@@ -1,6 +1,9 @@
 # FileNameEqualizer
 This script will rename files in a directory such that all of their file names are the same length. Useful for numeric sorting.
 
+![Before and after equalizing file names](https://github.com/jerwil/FileNameEqualizer/raw/master/Media/ExplorerExample.jpg)
+![Command line screenshot](https://github.com/jerwil/FileNameEqualizer/raw/master/Media/CMDScreenshot.png)
+
 # Use Case
 
 For example, let's say you have a directory containing the following images:
